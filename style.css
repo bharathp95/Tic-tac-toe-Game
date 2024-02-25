@@ -99,14 +99,14 @@ body{
 } 
 
 #reset-btn{
-    height: 5vmin;
-    width: 20vmin;
-    margin-top: 2vmin;
+    height: 3rem;
+    width: 8rem;
+    margin-top: 20px;
     border: none;
     border-radius: 1rem;
     background-color: #f72585;
     color: #ffffff;
-    font-size: 2.5vmin;
+    font-size: 1.1rem;
     font-family: 'Times New Roman', Times, serif;
     cursor: pointer;
     box-shadow: 0 0 1rem #000000;
