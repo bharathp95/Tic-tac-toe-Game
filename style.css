@@ -42,8 +42,8 @@ h1:hover{
 } 
 
 h3{
-    display: inline;
-    font-size: 2rem;
+    display: block;
+    font-size: 7vmin;
     color: #ffffff;
     margin-top: 2rem;
     text-shadow: #000000 4px 4px 4px;
@@ -123,14 +123,14 @@ body{
 
 
 #new-btn{
-    height: 5vmin;
+    height: 7vmin;
     width: 20vmin;
-    margin-top: 2vmin;
+    margin-top: 4vmin;
     border: none;
     border-radius: 1rem;
     background-color: #f72585;
     color: #ffffff;
-    font-size: 2.5vmin;
+    font-size: 3.5vmin;
     font-family: 'Times New Roman', Times, serif;
     cursor: pointer;
     box-shadow: 0 0 1rem #000000;
@@ -153,5 +153,5 @@ body{
 }
 
 .hide{
-    display: none;
+    /* display: none; */
 }
